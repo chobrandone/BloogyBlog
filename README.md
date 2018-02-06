@@ -1,6 +1,6 @@
-# yt-devmeetup-vue
+# Bloogy blog
 
-A dev meetup application built with Vue + Vuetify + Firebase.
+A social blogging  web application with firebase database and vue js
 
 ## Build Setup
 
@@ -17,5 +17,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
+you can also use yarn instead of using npm 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
