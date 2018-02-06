@@ -1,6 +1,6 @@
 # Bloogy blog
 
-A social blogging  web application with firebase database and vue js
+A social blogging single page web application(SPA) with firebase database and vue js
 
 ## Build Setup
 
