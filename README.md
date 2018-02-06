@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 
 #database setup (firebase setup)
-create new project base in firebase console in your accout
+create new project base in firebase console in your account
 for more details visit
 https://console.firebase.google.com/
 cool not a big deal its super simple !!
