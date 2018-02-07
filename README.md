@@ -27,6 +27,6 @@ you can also make installation process by using yarn instead of using npm
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-You can go to this app by clicking this!!
+You can directly go to this app by clicking this!!
 
 [Bloogy Blog by vinod Arjun ](https://bloogy-blog.firebaseapp.com/)
