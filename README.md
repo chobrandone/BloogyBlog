@@ -23,6 +23,10 @@ for more details visit
 https://console.firebase.google.com/
 cool not a big deal its super simple !!
 ```
-you can also use yarn instead of using npm 
+you can also make installation process by using yarn instead of using npm 
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+You can go to this app by clicking this!!
+
+[Bloogy Blog by vinod Arjun ](https://bloogy-blog.firebaseapp.com/)
